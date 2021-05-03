@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712804274424",
+    "firebase_url": "https://kipasangin-iot-default-rtdb.firebaseio.com",
+    "project_id": "kipasangin-iot",
+    "storage_bucket": "kipasangin-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712804274424:android:fadf9c00e796e3b1dceb0d",
+        "android_client_info": {
+          "package_name": "com.example.iot_kipas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712804274424-t3bbqfo880un54nh016c89lo1v04943m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_kipas",
+            "certificate_hash": "93bb6849d93786c106696a6a8ce7de8abf90d174"
+          }
+        },
+        {
+          "client_id": "712804274424-kmso0lnhptoo9ve4rntpqop93sc1bbbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqqHKES5ataXarBLAAf9XosEUx2bsH7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712804274424-kmso0lnhptoo9ve4rntpqop93sc1bbbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
